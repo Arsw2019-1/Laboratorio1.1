@@ -94,7 +94,7 @@ Dependencia agregada al pom.
 
 * Generate a new maven project in other folder using the maven command line tools, this project should has as groupId "edu.eci" and as artifactId "another-maven-project". Take the output screenshot.
 
-  ![](img/.png)
+  ![](img/crnwp.png)
 
 * Replace the code of the App.java class with the following code and do all the necessary steps to compile the code.
 
